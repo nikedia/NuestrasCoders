@@ -1,4 +1,4 @@
-#**NUESTRAS CODERS**
+#NUESTRAS CODERS
 ====================
 
 Ejercicio para replicar el siguiente esquema con HTML y CSS:
